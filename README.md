@@ -1,39 +1,41 @@
-# 是 virmain！
+# virmain,不过是一介平民，土木佬罢了。
 
-<img align="right" src="imgs/rice_shower.jpg" />
 
 简体中文 | [English](./README.en.md)
 
-virmain 的 Github 是怎么会事呢？相信大家都很熟悉 Github，但是 virmain 的 Github 是怎么会事呢？下面就让小编带大家一起来了解一下吧~
+virmain 的 Github 完全是空的，难不成他平常都在摸鱼？！~~错了吧，他是他可是移动式起重机操作员，这样的土木佬怎么会有闲空来这里呢~~
 
 ## 环境
 
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Android](https://img.shields.io/badge/-Androld-43ae2a?style=flat-square&logo=Android&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FF0000?style=flat-square&logo=Linux&logoColor=white)
 
 ## 技能清单
 
 | 类别 | 技能 |
 | :---: | :--- |
-| **编译器** | ![[C++] Antlr4](https://img.shields.io/badge/C++-Antlr4-ef2e24?style=flat-square&logo=c%2b%2b&logoColor=white) ![[C++] LLVM](https://img.shields.io/badge/C++-LLVM-666985?style=flat-square&logo=C%2b%2b&logoColor=white) ![masm32](https://img.shields.io/badge/Assembly-masm32-d9de82?style=flat-square&logo=windows&logoColor=white) |
-| **音视频** | ![[C] FFmpeg](https://img.shields.io/badge/C-FFmpeg-660033?style=flat-square&logo=c&logoColor=white) |
-| **Win32** | ![[C++] duilib](https://img.shields.io/badge/C++-duilib-0b7af0?style=flat-square&logo=C%2b%2b&logoColor=white) ![[C#] WinForm](https://img.shields.io/badge/C%23-WinForm-fbc010?style=flat-square&logo=.NET&logoColor=white) ![[C++] MFC](https://img.shields.io/badge/C++-MFC-b12010?style=flat-square&logo=C%2b%2b&logoColor=white) ![[C++] Qt5](https://img.shields.io/badge/C++-Qt5-41cd52?style=flat-square&logo=C%2b%2b&logoColor=white) |
-| *爬虫* | ![[Python] Requests](https://img.shields.io/badge/Python-Requests-333333?style=flat-square&logo=Python&logoColor=white) ![[Python] Selenium](https://img.shields.io/badge/Python-Selenium-43ae2a?style=flat-square&logo=Python&logoColor=white) |
-
+| *应用开发*~~（并非完全掌握）~~ |  ![Java](https://img.shields.io/badge/-Java-191970?style=flat-square&logo=Java&logoColor=white) ![Android Studio](https://img.shields.io/badge/-Androld_Studio-43ae2a?style=flat-square&logo=Android&logoColor=white)
+| *网络抓包* | ![Fiddler](https://img.shields.io/badge/-Fiddler-228B22?style=flat-square&logo=Fiddler&logoColor=white) ![Charles](https://img.shields.io/badge/-Charles-FFFF00?style=flat-square&logo=Charles&logoColor=white)
+| *爬虫* | ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=Python&logoColor=white) 
+| *虚拟机* | ![Vmware Workstation](https://img.shields.io/badge/-Vmware_Workstation-48D1CC?style=flat-square&logo=Vmware&logoColor=white) 
 ## 统计
-
-<img style="width: 480px;" src="https://github-readme-stats-one-bice.vercel.app/api?username=virmain&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&locale=cn&line_height=24&bg_color=00000010&text_color=c78944&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER" />
-
-哈哈，开个玩笑，没这么多Star。来个正确的：
 
 <p>
 <img style="width: 480px;" src="https://github-readme-stats.vercel.app/api?username=virmain&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&locale=cn&line_height=24&bg_color=00000010&text_color=c78944" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawdlstty&theme=dracula&layout=compact&locale=cn&langs_count=10&bg_color=00000010&text_color=c78944&hide=HTML,CSS" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virmain&theme=dracula&layout=compact&locale=cn&langs_count=10&bg_color=00000010&text_color=c78944&hide=HTML,CSS" />
 </p>
 
+~~噗，我们该不会什么都没有写过吧😥~~
+
 ## 参与贡献 (PR)
+~~这个垃圾人压根没有什么贡献，不被工地炒鱿鱼就不错了~~
 
 ## 当前专注
+~~提桶跑路~~
 
 ## 项目导航
+~~各类土建工程~~
 
 ## 有事找我？
+~~算了吧，没有什么特别的事情最好不要来~~
+
+来的话：请往senvench@gmail.com发送邮件，您将会于一日 ~~（也许是永远不会）~~ 内获得回复
