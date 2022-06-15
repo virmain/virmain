@@ -27,7 +27,7 @@ virmain 的 Github 完全是空的，难不成他平常都在摸鱼？！~~错�
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virmain&theme=dracula&layout=compact&locale=cn&langs_count=10&bg_color=00000010&text_color=c78944&hide=HTML,CSS" />
 </p>
 
-~~噗，我们该不会什么都没有写过吧😥~~
+~~噗，我们该不会什么都没有写过吧😥，我看嘛，这完全就是D吧！~~
 
 ## 参与贡献 (PR)
 ~~这个垃圾人压根没有什么贡献，不被工地炒鱿鱼就不错了~~
