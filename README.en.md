@@ -27,7 +27,7 @@ Virmain's Github was completely empty, could it be that he was always fishing? !
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virmain&theme=dracula&layout=compact&locale=en&langs_count=10&bg_color=00000010&text_color=c78944&hide=HTML,CSS" />
 </p>
 
-~~Pfft, shouldn't we have written nothing 😥, I thought, this is totally D! ~~
+~~Pfft, shouldn't we have written nothing 😥, I thought, this is totally D!~~
 
 ## Contributions (PR)
 
