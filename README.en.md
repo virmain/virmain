@@ -6,7 +6,7 @@
 
 简体中文 | [English](./README.en.md)
 
-Virmain's Github was completely empty, could it be that he was always fishing? ! ~~Wrong, he is he, but a mobile crane operator, how can such a builder have spare time to come here~~
+Virmain's Github was completely empty, could it be that he was always fishing? ! ~~Wrong, he is a mobile crane operator, how can such a builder have spare time to come here~~
 
 ## Develop Environment 
 
