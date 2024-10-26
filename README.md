@@ -17,6 +17,7 @@ Github 完全是空的，都在摸鱼
 | :---: | :--- |
 | *编程* | ![C++](https://img.shields.io/badge/-C++-f9f4f4?style=flat-square&logo=C++&logoColor=white) ![C](https://img.shields.io/badge/-C-43ae2a?style=flat-square&logo=C&logoColor=white) 
 | *Web应用开发* |  ![JavaWeb](https://img.shields.io/badge/-JavaWeb-f9f4f4?style=flat-square&logo=Java&logoColor=white) ![SpringBoot](https://img.shields.io/badge/-SpringBoot-43ae2a?style=flat-square&logo=SpringBoot&logoColor=white) ![SSM](https://img.shields.io/badge/-SSM-146FC6?style=flat-square&logo=SSM&logoColor=white)
+| *数据库* | ![MySQL](https://img.shields.io/badge/-MySQL-22b4fb?style=flat-square&logo=MySQL&logoColor=white)  
 | *网络抓包* | ![Fiddler](https://img.shields.io/badge/-Fiddler-228B22?style=flat-square&logo=Fiddler&logoColor=white) ![Charles](https://img.shields.io/badge/-Charles-7f7f7e?style=flat-square&logo=Charles&logoColor=e8ee85)
 | *机器学习* | ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=Python&logoColor=white) 
 | *虚拟机* | ![Vmware Workstation](https://img.shields.io/badge/-Vmware_Workstation-48D1CC?style=flat-square&logo=Vmware&logoColor=white) 
