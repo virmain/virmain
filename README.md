@@ -9,17 +9,18 @@ Github 完全是空的，都在摸鱼
 
 ## 环境
 
-![Intellij IDEA](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![](https://img.shields.io/badge/-Androld-43ae2a?style=flat-square&logo=Android&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FF0000?style=flat-square&logo=Linux&logoColor=white)
+![JetBrains](https://img.shields.io/badge/-JetBrains-0078D6?style=flat-square&logo=JetBrains&logoColor=white) ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) 
 
 ## 技能清单
 
 | 类别 | 技能 |
 | :---: | :--- |
-| *Web应用开发* |  ![Java](https://img.shields.io/badge/-Java-191970?style=flat-square&logo=Java&logoColor=white) ![](https://img.shields.io/badge/-Androld_Studio-43ae2a?style=flat-square&logo=Android&logoColor=white)
-| *网络抓包* | ![Fiddler](https://img.shields.io/badge/-Fiddler-228B22?style=flat-square&logo=Fiddler&logoColor=white) ![Charles](https://img.shields.io/badge/-Charles-FFFF00?style=flat-square&logo=Charles&logoColor=white)
+| *编程* | ![C++](https://img.shields.io/badge/-C++-f9f4f4?style=flat-square&logo=C++&logoColor=white) ![C](https://img.shields.io/badge/-C-43ae2a?style=flat-square&logo=C&logoColor=white) 
+| *Web应用开发* |  ![JavaWeb](https://img.shields.io/badge/-JavaWeb-f9f4f4?style=flat-square&logo=Java&logoColor=white) ![SpringBoot](https://img.shields.io/badge/-SpringBoot-43ae2a?style=flat-square&logo=SpringBoot&logoColor=white) ![SSM](https://img.shields.io/badge/-SSM-146FC6?style=flat-square&logo=SSM&logoColor=white)
+| *网络抓包* | ![Fiddler](https://img.shields.io/badge/-Fiddler-228B22?style=flat-square&logo=Fiddler&logoColor=white) ![Charles](https://img.shields.io/badge/-Charles-7f7f7e?style=flat-square&logo=Charles&logoColor=e8ee85)
 | *机器学习* | ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=Python&logoColor=white) 
 | *虚拟机* | ![Vmware Workstation](https://img.shields.io/badge/-Vmware_Workstation-48D1CC?style=flat-square&logo=Vmware&logoColor=white) 
-| *建模* | ![Unity](https://img.shields.io/badge/-Unity-CFCFCF?style=flat-square&logo=Unity&logoColor=black)![Blender](https://img.shields.io/badge/-Unity-CFCFCF?style=flat-square&logo=Unity&logoColor=black)
+| *建模* | ![Unity](https://img.shields.io/badge/-Unity-CFCFCF?style=flat-square&logo=Unity&logoColor=black) ![Blender](https://img.shields.io/badge/-Blender-faa509?style=flat-square&logo=Blender&logoColor=white)
 ## 统计
 
 <p>
